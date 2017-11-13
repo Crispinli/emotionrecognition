@@ -1,0 +1,7 @@
+data/
+
+npy_data/
+
+rnn_ckpt_data/
+
+total_results/
